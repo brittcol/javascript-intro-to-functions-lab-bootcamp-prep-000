@@ -10,4 +10,4 @@ var mixedCased='Hi there!
 
 mixedCased.toLowerCase()=== mixedCased// false
 
-mixedCased.toUppercase9
+mixedCased.toUppercase()
