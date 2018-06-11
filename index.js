@@ -1,3 +1,3 @@
 'Hello!'. toUppercase()//'Hello!'
-;"'I hate you'
+;"'I hate you''
 ;"shout(string){returnstring.toUppercase()}
