@@ -1,2 +1,4 @@
 var uppercase = "Hello!"
-uppercase
+uppercase.toUppercase() ===uppercase// true
+var lowercase = 'hello!'
+lowercase
