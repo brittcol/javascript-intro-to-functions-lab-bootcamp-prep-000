@@ -1,1 +1,1 @@
-'Hello!'. toUpperca
+'Hello!'. toUppercase()//'Hello!'
