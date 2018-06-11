@@ -1,2 +1,2 @@
 var uppercase = "Hello!"
-upp
+uppercase
