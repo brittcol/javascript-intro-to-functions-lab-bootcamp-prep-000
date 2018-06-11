@@ -5,3 +5,4 @@ var lowercase = 'hello!'
 var lowercase='hello!'
 
 lowercase.toLowerCase()===lowercase//true
+
